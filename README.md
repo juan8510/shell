@@ -15,4 +15,6 @@ shell常用分析命令和脚本
 
 ##process 进程管理
 
+##debug 调试脚本
+
  
