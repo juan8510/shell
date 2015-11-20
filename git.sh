@@ -47,6 +47,9 @@
 	git checkout -- <file>.
 
 
+#####取消本地所有未提交的修改
+	git checkout .
+
 #####取消已经暂存的文件
 	git reset HEAD <file>.
 
@@ -56,3 +59,4 @@
 
 #####提交到线上
 	git push origin test:master  #提交本地test分支作为远程的master分支
+
